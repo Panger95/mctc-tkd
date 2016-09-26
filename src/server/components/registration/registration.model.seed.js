@@ -18,6 +18,11 @@ var seedRegistration = function () {
               amount: 20,
               description: "Register yourself as a coach."
           },
+	  {
+              _id: "Referee",
+              amount: 0,
+              description: "Register yourself as a referee."
+          },
           {
               _id: "Black Belt",
               amount: 30,
