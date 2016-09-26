@@ -7,7 +7,7 @@ var seedAdmin = function() {
     if (documents.length === 0){
       var password = 'admin12';
       var user = new User({
-        email: 'nick@nickwhite.us',
+        email: 'pang.134@osu.edu',
         admin: true,
         password: password
       });
